@@ -1,5 +1,5 @@
 # NigeriaFakeNewsDetector
-Introducing the Nigeria Fake News Detector — your AI-powered firewall against digital misinformation, legal jeopardy, and social chaos. Built with cutting-edge natural language processing (NLP), machine learning, and contextual Nigerian data, this model doesn’t just spot fake news — it understands the social, political, and legal stakes behind it. 
+Introducing the Nigeria Fake News Detection Model — your AI-powered firewall against digital misinformation, legal jeopardy, and social chaos. Built with cutting-edge natural language processing (NLP), machine learning, and contextual Nigerian data, this model doesn’t just spot fake news — it understands the social, political, and legal stakes behind it. 
 
 ## 🚨 Why This Project?
 
