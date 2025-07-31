@@ -81,5 +81,4 @@ AI Engineer| Data Scientist | AI for Public Good Advocate | 🇳🇬 Tech for De
 •	🐙 GitHub:  https://github.com/Tayo-Adebimpe 
 •	📩 Open to collaborations, feedback, and partnerships!
 ________________________________________
-![3MTT](https://github.com/user-attachments/assets/7e89730f-2f0d-4f85-b631-75d74b014412)
 "Fighting misinformation is no longer optional — it's a civic duty."
