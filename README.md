@@ -1,5 +1,11 @@
 # NigeriaFakeNewsDetector
-Introducing the Nigeria Fake News Detector — your AI-powered firewall against digital misinformation, legal jeopardy, and social chaos. Built with cutting-edge natural language processing (NLP), machine learning, and contextual Nigerian data, this model doesn’t just spot fake news — it understands the social, political, and legal stakes behind it.
+Introducing the Nigeria Fake News Detector — your AI-powered firewall against digital misinformation, legal jeopardy, and social chaos. Built with cutting-edge natural language processing (NLP), machine learning, and contextual Nigerian data, this model doesn’t just spot fake news — it understands the social, political, and legal stakes behind it. 
+
+## 🚨 Why This Project?
+
+Misinformation is a serious threat to Nigeria’s national cohesion, elections, and public health. From WhatsApp broadcasts to Twitter threads, fake news travels faster than verified truth.
+
+🔍 This app gives Nigerians a simple tool to analyze and detect **fake or real** news instantly using AI.
 
 # 🔥 Overview
 NigeriaFakeNewsDetector is a cutting-edge, AI-powered solution designed specifically for the detection and prevention of fake news in Nigeria. Built using a fine-tuned aROBERTa model with Low-Rank Adaptation (LoRA) and HuggingFace’s robust Trainer, this model outperforms conventional classifiers in recognizing misleading, deceptive, or dangerous news in both English and local Nigerian contexts.
@@ -30,3 +36,50 @@ Fine-Tuning: Using HuggingFace Trainer with learning rate scheduling, mixed prec
 
 LoRA: Reduces memory usage while maintaining high accuracy — ideal for deployment in low-resource settings like mobile apps.
 
+# 🇳🇬 Nigeria Fake News Detector 🧠📢
+
+> An AI-powered web application to detect **Fake News vs Real News** in Nigerian context — built with love, code, and a mission to protect our democracy.
+
+---
+
+## ✨ Features
+
+- ✅ Real-time analysis of headlines and content
+- 🧠 NLP preprocessing with lemmatization, stopword removal, and noise cleaning
+- 📊 Machine Learning classification (custom trained model)
+- 💻 Responsive and attractive UI built with Streamlit
+- 🇳🇬 Theme and styling tailored for Nigerian audience
+
+---
+
+## 🛠️ Technologies Used
+
+| Component            | Description                                      |
+|----------------------|--------------------------------------------------|
+| `Python`             | Backend language                                 |
+| `Streamlit`          | Frontend web app framework                       |
+| `Scikit-learn`       | ML pipeline for classification                   |
+| `NLTK`               | Tokenization, stopwords, lemmatization           |
+| `Joblib`             | Model serialization                              |
+| `Pandas` & `Regex`   | Data handling and text cleaning                  |
+
+________________________________________
+1.3	📸 App Preview
+________________________________________
+1.4	🧠 Future Improvements
+•	🔐 Add OAuth or API Key authentication
+•	🗣️ Multilingual support (Pidgin, Yoruba, Hausa, Igbo)
+•	🤖 Deploy as RESTful API or PWA
+•	🌐 Integrate fact-checking platforms (AfricaCheck, Dubawa, etc.)
+________________________________________
+1.5	👨💻 Author
+[Adebimpe Isaiah Tayo]
+FMCIDE/3MTT Cohort 3.
+FE/23/65216968
+AI Engineer| Data Scientist | AI for Public Good Advocate | 🇳🇬 Tech for Democracy
+•	🔗 LinkedIn: www.inkedin.com/in/tayo-adebimpe-76699849
+•	🐙 GitHub:  https://github.com/Tayo-Adebimpe 
+•	📩 Open to collaborations, feedback, and partnerships!
+________________________________________
+![3MTT](https://github.com/user-attachments/assets/7e89730f-2f0d-4f85-b631-75d74b014412)
+"Fighting misinformation is no longer optional — it's a civic duty."
