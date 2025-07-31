@@ -17,13 +17,14 @@ Under Section 24 of the Nigerian Cybercrime Act, individuals can face prison sen
 
 💡 Whether or not you're the originator, forwarding a fake message can land you in jail.
 With this app, you can verify news instantly before sharing, protecting yourself, your community, and national unity.
-
 This model is not just another NLP project — it's a public necessity, a digital guardian in the fight against misinformation in Africa’s largest democracy.
 
-🧠 Model Architecture
-Base Model: afriberta-base → further optimized with LoRA.
+1.5	👨💻 Author
+[Adebimpe Tayo Isaiah]
+FMCIDE|3MTT|Cohort3|FE/23/65216968
+AI Engineer| Data Scientist | AI for Public Good Advocate | 🇳🇬 Tech for Democracy
+•	🔗 LinkedIn: http://www.linkedin.com/in/tayo-adebimpe-76699849
+•	🐙 GitHub: https://github.com/Tayo-Adebimpe
+•	📩 Open to collaborations, feedback, and partnerships!
 
-Fine-Tuning: Using HuggingFace Trainer with learning rate scheduling, mixed precision (fp16), and early stopping.
-
-LoRA: Reduces memory usage while maintaining high accuracy — ideal for deployment in low-resource settings like mobile apps.
 
