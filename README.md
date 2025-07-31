@@ -64,15 +64,15 @@ LoRA: Reduces memory usage while maintaining high accuracy — ideal for deploym
 | `Pandas` & `Regex`   | Data handling and text cleaning                  |
 
 ________________________________________
-1.3	📸 App Preview
+📸 App Preview
 ________________________________________
-1.4	🧠 Future Improvements
+🧠 Future Improvements
 •	🔐 Add OAuth or API Key authentication
 •	🗣️ Multilingual support (Pidgin, Yoruba, Hausa, Igbo)
 •	🤖 Deploy as RESTful API or PWA
 •	🌐 Integrate fact-checking platforms (AfricaCheck, Dubawa, etc.)
 ________________________________________
-1.5	👨💻 Author
+👨💻 Author
 [Adebimpe Isaiah Tayo]
 FMCIDE/3MTT Cohort 3.
 FE/23/65216968
