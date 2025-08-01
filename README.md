@@ -19,7 +19,7 @@ Under Section 24 of the Nigerian Cybercrime Act, individuals can face prison sen
 With this app, you can verify news instantly before sharing, protecting yourself, your community, and national unity.
 This model is not just another NLP project — it's a public necessity, a digital guardian in the fight against misinformation in Africa’s largest democracy.
 
-1.5	👨💻 Author
+👨💻 Author
 [Adebimpe Tayo Isaiah]
 FMCIDE|3MTT|Cohort3|FE/23/65216968
 AI Engineer| Data Scientist | AI for Public Good Advocate | 🇳🇬 Tech for Democracy
